@@ -4,7 +4,7 @@ This mod adds OldWizard font to Font API mod (from [display_modpack](https://git
 
 For more information, see the [forum topic](https://forum.minetest.net/viewtopic.php?t=13563) at the Minetest forums.
 
-<center>![Font OldWizard Preview](screenshot.png)</center>
+![Font OldWizard Preview](screenshot.png)
 
 **Dependancies**: font_api
 
