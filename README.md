@@ -12,8 +12,7 @@ For more information, see the [forum topic](https://forum.minetest.net/viewtopic
 
 ## Original Font
 
-**Original font**: OldWizard by Angel
+**Original font**: [OldWizard by Angel](http://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=168)
 
 **License**: Public Domain
 
-[Original font site](http://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=168)
